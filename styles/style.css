@@ -1,0 +1,81 @@
+/* This is a comment in CSS */
+
+html {
+        background-color: rgb(161,0,0,0.3);
+
+}
+
+
+body {
+    font-family: Open Sans;
+    height: auto;
+    margin:auto; 
+    width: 64%;
+    background-color: white;
+
+        /* sets padding in following order: top, right, bottom, left */
+
+        
+}
+
+.padding_1 {
+    padding: 3.75% 3.75% 5% 3.75%;
+
+}
+
+.box1 {
+        
+    width: 96.1%;
+            /* sets the width of the box */
+    padding: 1.5%;
+            /*sets the distance from the item to the edge of the box */
+    background-color: #ebebeb;
+            /*sets the color of the box (the background color of the area inhabited by the box) */
+
+        
+
+}
+
+h1 {
+    color: rgb(161,0,0,1);
+        /* sets the color of the text */
+}
+
+ul, ol {
+    line-height: 2;
+        /* sets the distance between each row */
+}
+
+.image1 {
+    width: 100%;
+    
+}
+
+.image2 {
+    width: 49%;
+    /* height: 467px; */
+    min-width: 250px;
+    
+    margin-right: 1.3%;
+    
+}
+
+.image3 {
+    width: 49%;
+    min-width: 250px;
+    margin-top: 1.3%
+    /*padding-left: 3.8%; */
+}
+
+
+
+
+/*
+.box2 {
+    width: 59.2%; 
+    height: 24.5%; 
+    
+}  */
+
+
+/*1395*/
